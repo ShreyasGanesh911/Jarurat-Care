@@ -25,10 +25,11 @@ Build a simple simple API using Node.js and Express to manage a list of healthca
     ```
     npm run dev
     ```
-6) Make a simple GET request
+6) Make a simple GET request (Will be an empty array as no data is present)
    ```
    http://localhost:4000/service/all
    ```
 
 You are now good to go!
    
+PS: Have added a dummy json file in the asset folder which can me imported in your local Mongo DB for testing.
