@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66eafaf313fecc13fb425f4c"
+  },
+  "serviceName": "test",
+  "description": "Some service",
+  "price": 60,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eafddf13fecc13fb425f4f"
+  },
+  "serviceName": "test 1",
+  "description": "Some service",
+  "price": 60,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eafde813fecc13fb425f53"
+  },
+  "serviceName": "test 2",
+  "description": "Some service",
+  "price": 60,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eafdec13fecc13fb425f55"
+  },
+  "serviceName": "test 3",
+  "description": "Some service",
+  "price": 60,
+  "__v": 0
+}]
